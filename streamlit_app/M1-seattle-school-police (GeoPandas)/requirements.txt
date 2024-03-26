@@ -1,0 +1,6 @@
+folium==0.14.0
+geopandas==0.13.2
+pandas==2.1.0
+Shapely==2.0.1
+streamlit==1.26.0
+streamlit_folium==0.13.0
